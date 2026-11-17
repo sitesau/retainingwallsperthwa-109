@@ -1,0 +1,22 @@
+{
+  "wheel_id": 920,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-109",
+  "project": "retaining-walls-perth-materials-compared-4cd395e8d42aa9955167f8",
+  "parent_t1_ref": "retainingwallsperthwa-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth materials compared",
+  "intended_url": "https://sitesau.github.io/retainingwallsperthwa-109/",
+  "tier": "T2",
+  "writeback_nonce": "1fec77df8a2b4642",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-perth-council-and-approvals-b2848d885799c2a512b/",
+      "anchor": "this retaining walls perth council and approvals resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
